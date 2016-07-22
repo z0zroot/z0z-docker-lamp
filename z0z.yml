@@ -1,0 +1,5 @@
+lamp:
+  image: z0z/lamp
+  ports:
+    - 80:80
+    - 3306:3306
